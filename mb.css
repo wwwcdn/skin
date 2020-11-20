@@ -419,3 +419,16 @@ ul.list li p{line-height: 25px; color:#333}
 .pagelink strong{padding:0 5px; }
 .pagelink input{border:1px solid #ccc;line-height:25px;height:25px;vertical-align:middle;
 
+.listpage{margin:10px;height:36px;line-height:36px;overflow:hidden}
+.listpage span{height:36px;line-height:36px;text-align:center}
+.listpage .left{float:left;width:25%}
+.listpage .left a,.listpage .right a{display:inline-block;height:36px;width:90%}
+.listpage .left a{float:left}
+.listpage .right a{float:right}
+.listpage .right{float:right;width:25%}
+.listpage .middle{width:49%;border:1px solid #dfdfdf;height:34px;display:block;float:left;border-radius:5px}
+.listpage .middle em{display:inline-block;width:80%;text-align:center;color:#999;font-style:normal;float:left;line-height:36px;height:30px}
+.listpage .middle a{display:inline-block;float:left;width:19%;height:36px;line-height:36px;vertical-align:middle}
+.listpage .middle select{border:none;color:#999;display:inline-block;float:left;font-style:normal;height:34px;line-height:34px;text-align:center;width:100%}
+.listpage .onclick{background:#4baacd;color:#FFF}
+.listpage .before{background:#cecece;color:#FFF}
